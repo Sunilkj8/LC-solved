@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Sunilkj8/LC-solved/tree/master/0046-permutations) |
+| [0485-max-consecutive-ones](https://github.com/Sunilkj8/LC-solved/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/Sunilkj8/LC-solved/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sunilkj8/LC-solved/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sunilkj8/LC-solved/tree/master/1004-max-consecutive-ones-iii) |
