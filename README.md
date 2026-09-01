@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sunilkj8/LC-solved/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/Sunilkj8/LC-solved/tree/master/0046-permutations) |
 | [0485-max-consecutive-ones](https://github.com/Sunilkj8/LC-solved/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/Sunilkj8/LC-solved/tree/master/0904-fruit-into-baskets) |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sunilkj8/LC-solved/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Sunilkj8/LC-solved/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Sunilkj8/LC-solved/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
