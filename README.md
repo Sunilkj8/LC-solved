@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Sunilkj8/LC-solved/tree/master/0046-permutations) |
 | [0198-house-robber](https://github.com/Sunilkj8/LC-solved/tree/master/0198-house-robber) |
 | [0485-max-consecutive-ones](https://github.com/Sunilkj8/LC-solved/tree/master/0485-max-consecutive-ones) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sunilkj8/LC-solved/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/Sunilkj8/LC-solved/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sunilkj8/LC-solved/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sunilkj8/LC-solved/tree/master/1004-max-consecutive-ones-iii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/Sunilkj8/LC-solved/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Sunilkj8/LC-solved/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sunilkj8/LC-solved/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
