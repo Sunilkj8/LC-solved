@@ -1,27 +1,31 @@
 class Solution {
 public:
     int m, n;
-    int fn(int i, int j, vector<vector<int>>& dp) {
-        if (i == m - 1 && j == n - 1) {
-            return 1;
-        }
-        if (i >= m || j >= n)
-            return 0;
-        if (dp[i][j] != -1) {
-
-            return dp[i][j];
-        }
-        int right = fn(i, j + 1, dp);
-        int down = fn(i + 1, j, dp);
-        dp[i][j] = right + down;
-        return right + down;
-    }
-
     int uniquePaths(int r, int c) {
         m = r, n = c;
-        vector<vector<int>> dp(m, vector<int>(n, -1));
-        int ans = fn(0, 0, dp);
+        vector<vector<int>> dp(m, vector<int>(n, 0));
 
-        return ans;
+        dp[m - 1][n - 1] = 1;
+        for (int i = m - 1; i >= 0; i--) {
+            int j = n - 1;
+            if (i == m - 1) {
+                j = n - 2;
+            }
+            for (; j >= 0; j--) {
+                int right, down;
+                if (j + 1 >= n)
+                    right = 0;
+                else
+                    right = dp[i][j + 1];
+                if (i + 1 >= m)
+                    down = 0;
+                else
+                    down = dp[i + 1][j];
+
+                dp[i][j] = right + down;
+            }
+        }
+
+        return dp[0][0];
     }
 };
