@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sunilkj8/LC-solved/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/Sunilkj8/LC-solved/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sunilkj8/LC-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sunilkj8/LC-solved/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sunilkj8/LC-solved/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/Sunilkj8/LC-solved/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Sunilkj8/LC-solved/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Sunilkj8/LC-solved/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Sunilkj8/LC-solved/tree/master/0509-fibonacci-number) |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sunilkj8/LC-solved/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sunilkj8/LC-solved/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
