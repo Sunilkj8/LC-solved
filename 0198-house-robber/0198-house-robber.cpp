@@ -1,25 +1,22 @@
 class Solution {
 public:
-    int rob(vector<int>& nums) {
-        int n = nums.size();
-        if (n == 1)
-            return nums[0];
-        if (n == 2)
-            return max(nums[0], nums[1]);
-        vector<int> dp(n);
-        dp[n - 1] = nums[n - 1];
-        dp[n - 2] = nums[n - 2];
-        for (int i = n - 3; i >= 0; i--) {
-            if (i + 3 >= n)
-                dp[i] = nums[i] + dp[i + 2];
-            else if (dp[i + 2] > dp[i + 3]) {
-
-                dp[i] = nums[i] + dp[i + 2];
-            } else {
-                dp[i] = nums[i] + dp[i + 3];
-            }
+    int solve(int idx, vector<int>& nums,vector<int>&dp) {
+        if (idx >= nums.size()) {
+            return 0;
         }
+        if(dp[idx]!=-1)return dp[idx];
+        int jump1 = solve(idx + 2, nums,dp);
+        int jump2 = solve(idx + 3, nums,dp);
+        return dp[idx]=nums[idx] + max(jump1, jump2);
+    }
 
-        return max(dp[0], dp[1]);
+    int rob(vector<int>& nums) {
+        int maxAmt = INT_MIN;
+        vector<int> dp(nums.size(), -1);
+        for (int i = 0; i < nums.size(); i++) {
+
+            maxAmt = max(maxAmt, solve(i, nums,dp));
+        }
+        return maxAmt;
     }
 };
