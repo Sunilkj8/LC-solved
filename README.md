@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Sunilkj8/LC-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sunilkj8/LC-solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sunilkj8/LC-solved/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sunilkj8/LC-solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sunilkj8/LC-solved/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sunilkj8/LC-solved/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Sunilkj8/LC-solved/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/Sunilkj8/LC-solved/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sunilkj8/LC-solved/tree/master/1248-count-number-of-nice-subarrays) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sunilkj8/LC-solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sunilkj8/LC-solved/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Sunilkj8/LC-solved/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sunilkj8/LC-solved/tree/master/3875-construct-uniform-parity-array-i) |
