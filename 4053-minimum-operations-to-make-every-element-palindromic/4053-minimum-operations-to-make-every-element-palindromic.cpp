@@ -3,7 +3,7 @@ public:
    inline static vector<long long> e, o;
     inline static bool flag=0;
     void generatePalindromes() {
-        if(flag)return;
+        
         for (long long i = 1; i <= 1e5; i++) {
             string s = to_string(i);
             string r = s;
@@ -25,7 +25,7 @@ public:
         sort(o.begin(), o.end());
     }
     long long minOperations(vector<int>& nums) {
-         
+        if(!flag)
         generatePalindromes();
 
         long long minOps = 0;
