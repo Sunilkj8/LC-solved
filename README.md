@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sunilkj8/LC-solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sunilkj8/LC-solved/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sunilkj8/LC-solved/tree/master/3875-construct-uniform-parity-array-i) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/Sunilkj8/LC-solved/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sunilkj8/LC-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sunilkj8/LC-solved/tree/master/1004-max-consecutive-ones-iii) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/Sunilkj8/LC-solved/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Sliding Window
 |  |
 | ------- |
