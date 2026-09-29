@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sunilkj8/LC-solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sunilkj8/LC-solved/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sunilkj8/LC-solved/tree/master/3875-construct-uniform-parity-array-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Sunilkj8/LC-solved/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/Sunilkj8/LC-solved/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Binary Search
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Sunilkj8/LC-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sunilkj8/LC-solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sunilkj8/LC-solved/tree/master/3718-smallest-missing-multiple-of-k) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Sunilkj8/LC-solved/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## String
 |  |
 | ------- |
