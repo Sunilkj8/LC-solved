@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sunilkj8/LC-solved/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/Sunilkj8/LC-solved/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0063-unique-paths-ii) |
+| [0120-triangle](https://github.com/Sunilkj8/LC-solved/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Sunilkj8/LC-solved/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sunilkj8/LC-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0213-house-robber-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sunilkj8/LC-solved/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Sunilkj8/LC-solved/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0063-unique-paths-ii) |
+| [0120-triangle](https://github.com/Sunilkj8/LC-solved/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Sunilkj8/LC-solved/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Sunilkj8/LC-solved/tree/master/0322-coin-change) |
