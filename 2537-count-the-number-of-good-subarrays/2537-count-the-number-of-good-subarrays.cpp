@@ -10,14 +10,14 @@ public:
                 k-=mpp[nums[j]];
             }
             mpp[nums[j]]++;
-            if(k<=0){
+            
                 while(k<=0){
                 goodCnt+=nums.size()-j;
                     mpp[nums[i]]--;
                     k+=mpp[nums[i]];
                     i++;
                 }
-            }
+            
             j++;
         }
 
