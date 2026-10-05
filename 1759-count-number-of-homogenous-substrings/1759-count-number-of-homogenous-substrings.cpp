@@ -6,9 +6,10 @@ public:
         int mod = 1e9 + 7;
         map<char, int> mpp;
         while (j < s.size()) {
-            // Expand
+            
             mpp[s[j]]++;
              while(mpp.size()>1){
+                
                 mpp[s[i]]--;
                 if(mpp[s[i]]==0)mpp.erase(s[i]);
                 i++;
