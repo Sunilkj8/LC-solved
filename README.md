@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2537-count-the-number-of-good-subarrays](https://github.com/Sunilkj8/LC-solved/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sunilkj8/LC-solved/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sunilkj8/LC-solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sunilkj8/LC-solved/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sunilkj8/LC-solved/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sunilkj8/LC-solved/tree/master/3875-construct-uniform-parity-array-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Sunilkj8/LC-solved/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sunilkj8/LC-solved/tree/master/0187-repeated-dna-sequences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sunilkj8/LC-solved/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sunilkj8/LC-solved/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Queue
 |  |
 | ------- |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sunilkj8/LC-solved/tree/master/0187-repeated-dna-sequences) |
+## Simulation
+|  |
+| ------- |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sunilkj8/LC-solved/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 <!---LeetCode Topics End-->
