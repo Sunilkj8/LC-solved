@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Sunilkj8/LC-solved/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sunilkj8/LC-solved/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Sunilkj8/LC-solved/tree/master/0931-minimum-falling-path-sum) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Sunilkj8/LC-solved/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Sunilkj8/LC-solved/tree/master/0187-repeated-dna-sequences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sunilkj8/LC-solved/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sunilkj8/LC-solved/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Sunilkj8/LC-solved/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Sunilkj8/LC-solved/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Queue
 |  |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Sunilkj8/LC-solved/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Sunilkj8/LC-solved/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Sunilkj8/LC-solved/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## 0-1 Knapsack
