@@ -110,10 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Sunilkj8/LC-solved/tree/master/0647-palindromic-substrings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sunilkj8/LC-solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Sunilkj8/LC-solved/tree/master/1759-count-number-of-homogenous-substrings) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Sunilkj8/LC-solved/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Sunilkj8/LC-solved/tree/master/0046-permutations) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Sunilkj8/LC-solved/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Linked List
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Sunilkj8/LC-solved/tree/master/0187-repeated-dna-sequences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sunilkj8/LC-solved/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sunilkj8/LC-solved/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Sunilkj8/LC-solved/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Queue
 |  |
 | ------- |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Sunilkj8/LC-solved/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Sunilkj8/LC-solved/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## 0-1 Knapsack
 |  |
