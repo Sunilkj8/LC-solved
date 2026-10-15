@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Sunilkj8/LC-solved/tree/master/0485-max-consecutive-ones) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sunilkj8/LC-solved/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/Sunilkj8/LC-solved/tree/master/0904-fruit-into-baskets) |
+| [0922-sort-array-by-parity-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sunilkj8/LC-solved/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Sunilkj8/LC-solved/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sunilkj8/LC-solved/tree/master/0992-subarrays-with-k-different-integers) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sunilkj8/LC-solved/tree/master/0015-3sum) |
 | [0567-permutation-in-string](https://github.com/Sunilkj8/LC-solved/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Sunilkj8/LC-solved/tree/master/0647-palindromic-substrings) |
+| [0922-sort-array-by-parity-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0922-sort-array-by-parity-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sunilkj8/LC-solved/tree/master/0015-3sum) |
+| [0922-sort-array-by-parity-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0922-sort-array-by-parity-ii) |
 ## Rolling Hash
 |  |
 | ------- |
