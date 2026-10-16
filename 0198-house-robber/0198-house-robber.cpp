@@ -1,22 +1,16 @@
 class Solution {
 public:
-    int solve(int idx, vector<int>& nums,vector<int>&dp) {
-        if (idx >= nums.size()) {
-            return 0;
-        }
-        if(dp[idx]!=-1)return dp[idx];
-        int jump1 = solve(idx + 2, nums,dp);
-        int jump2 = solve(idx + 3, nums,dp);
-        return dp[idx]=nums[idx] + max(jump1, jump2);
-    }
-
+   int solve(vector<int>&nums,int idx,vector<int>&dp){
+       if(idx>=nums.size())return 0;
+       if(dp[idx]!=-1)return dp[idx];
+       return dp[idx]= nums[idx]+max(solve(nums,idx+2,dp),solve(nums,idx+3,dp));
+   }
     int rob(vector<int>& nums) {
-        int maxAmt = INT_MIN;
-        vector<int> dp(nums.size(), -1);
-        for (int i = 0; i < nums.size(); i++) {
-
-            maxAmt = max(maxAmt, solve(i, nums,dp));
-        }
-        return maxAmt;
+        if(nums.size()==1)return nums[0];
+        if(nums.size()==2)return max(nums[0],nums[1]);
+        vector<int>dp(nums.size()+1,-1);
+        int first=nums[0]+max(solve(nums,2,dp),solve(nums,3,dp));
+        int second=nums[1]+max(solve(nums,3,dp),solve(nums,4,dp));
+        return max(first,second);
     }
 };
