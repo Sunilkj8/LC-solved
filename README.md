@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sunilkj8/LC-solved/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sunilkj8/LC-solved/tree/master/0015-3sum) |
+| [0045-jump-game-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Sunilkj8/LC-solved/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Sunilkj8/LC-solved/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0063-unique-paths-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sunilkj8/LC-solved/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sunilkj8/LC-solved/tree/master/0055-jump-game) |
 ## Tree
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sunilkj8/LC-solved/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sunilkj8/LC-solved/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sunilkj8/LC-solved/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0063-unique-paths-ii) |
