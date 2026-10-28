@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Sunilkj8/LC-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sunilkj8/LC-solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Sunilkj8/LC-solved/tree/master/2537-count-the-number-of-good-subarrays) |
+| [3713-longest-balanced-substring-i](https://github.com/Sunilkj8/LC-solved/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sunilkj8/LC-solved/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Sunilkj8/LC-solved/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Sunilkj8/LC-solved/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Sunilkj8/LC-solved/tree/master/0647-palindromic-substrings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sunilkj8/LC-solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Sunilkj8/LC-solved/tree/master/1759-count-number-of-homogenous-substrings) |
+| [3713-longest-balanced-substring-i](https://github.com/Sunilkj8/LC-solved/tree/master/3713-longest-balanced-substring-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Sunilkj8/LC-solved/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Backtracking
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sunilkj8/LC-solved/tree/master/0992-subarrays-with-k-different-integers) |
+| [3713-longest-balanced-substring-i](https://github.com/Sunilkj8/LC-solved/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Sunilkj8/LC-solved/tree/master/3713-longest-balanced-substring-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Sunilkj8/LC-solved/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Sunilkj8/LC-solved/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Sunilkj8/LC-solved/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
