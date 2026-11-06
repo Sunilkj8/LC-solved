@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Sunilkj8/LC-solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1049-last-stone-weight-ii](https://github.com/Sunilkj8/LC-solved/tree/master/1049-last-stone-weight-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sunilkj8/LC-solved/tree/master/1248-count-number-of-nice-subarrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sunilkj8/LC-solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sunilkj8/LC-solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Sunilkj8/LC-solved/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sunilkj8/LC-solved/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sunilkj8/LC-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sunilkj8/LC-solved/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sunilkj8/LC-solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/Sunilkj8/LC-solved/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Sliding Window
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Sunilkj8/LC-solved/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Sunilkj8/LC-solved/tree/master/0647-palindromic-substrings) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0922-sort-array-by-parity-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sunilkj8/LC-solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sunilkj8/LC-solved/tree/master/0015-3sum) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0922-sort-array-by-parity-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sunilkj8/LC-solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Rolling Hash
 |  |
 | ------- |
