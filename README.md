@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Sunilkj8/LC-solved/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Sunilkj8/LC-solved/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/Sunilkj8/LC-solved/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Sunilkj8/LC-solved/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Sunilkj8/LC-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sunilkj8/LC-solved/tree/master/0746-min-cost-climbing-stairs) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sunilkj8/LC-solved/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Sunilkj8/LC-solved/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sunilkj8/LC-solved/tree/master/0015-3sum) |
+| [0455-assign-cookies](https://github.com/Sunilkj8/LC-solved/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Sunilkj8/LC-solved/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Sunilkj8/LC-solved/tree/master/0647-palindromic-substrings) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0922-sort-array-by-parity-ii) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sunilkj8/LC-solved/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sunilkj8/LC-solved/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/Sunilkj8/LC-solved/tree/master/0455-assign-cookies) |
 ## Tree
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sunilkj8/LC-solved/tree/master/0015-3sum) |
+| [0455-assign-cookies](https://github.com/Sunilkj8/LC-solved/tree/master/0455-assign-cookies) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sunilkj8/LC-solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Rolling Hash
@@ -286,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sunilkj8/LC-solved/tree/master/0128-longest-consecutive-sequence) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Sunilkj8/LC-solved/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
