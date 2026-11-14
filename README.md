@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sunilkj8/LC-solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Sunilkj8/LC-solved/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sunilkj8/LC-solved/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Sunilkj8/LC-solved/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sunilkj8/LC-solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sunilkj8/LC-solved/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3693-climbing-stairs-ii](https://github.com/Sunilkj8/LC-solved/tree/master/3693-climbing-stairs-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sunilkj8/LC-solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Sunilkj8/LC-solved/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sunilkj8/LC-solved/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Sunilkj8/LC-solved/tree/master/3364-minimum-positive-sum-subarray) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Sunilkj8/LC-solved/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Prefix Sum
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Sunilkj8/LC-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sunilkj8/LC-solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sunilkj8/LC-solved/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Sunilkj8/LC-solved/tree/master/3364-minimum-positive-sum-subarray) |
 | [3964-minimum-lights-to-illuminate-a-road](https://github.com/Sunilkj8/LC-solved/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Sunilkj8/LC-solved/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Math
