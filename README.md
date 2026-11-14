@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Sunilkj8/LC-solved/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Sunilkj8/LC-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sunilkj8/LC-solved/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/Sunilkj8/LC-solved/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Sunilkj8/LC-solved/tree/master/0904-fruit-into-baskets) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sunilkj8/LC-solved/tree/master/0930-binary-subarrays-with-sum) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sunilkj8/LC-solved/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Sunilkj8/LC-solved/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Sunilkj8/LC-solved/tree/master/0860-lemonade-change) |
 ## Tree
 |  |
 | ------- |
