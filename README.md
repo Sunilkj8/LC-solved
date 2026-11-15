@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Sunilkj8/LC-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sunilkj8/LC-solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sunilkj8/LC-solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sunilkj8/LC-solved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Sunilkj8/LC-solved/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sunilkj8/LC-solved/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sunilkj8/LC-solved/tree/master/3364-minimum-positive-sum-subarray) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Sunilkj8/LC-solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sunilkj8/LC-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sunilkj8/LC-solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sunilkj8/LC-solved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sunilkj8/LC-solved/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sunilkj8/LC-solved/tree/master/3364-minimum-positive-sum-subarray) |
 | [3964-minimum-lights-to-illuminate-a-road](https://github.com/Sunilkj8/LC-solved/tree/master/3964-minimum-lights-to-illuminate-a-road) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Sunilkj8/LC-solved/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/Sunilkj8/LC-solved/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sunilkj8/LC-solved/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sunilkj8/LC-solved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Sunilkj8/LC-solved/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1922-count-good-numbers](https://github.com/Sunilkj8/LC-solved/tree/master/1922-count-good-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sunilkj8/LC-solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Sunilkj8/LC-solved/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Sunilkj8/LC-solved/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Sunilkj8/LC-solved/tree/master/1049-last-stone-weight-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sunilkj8/LC-solved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3693-climbing-stairs-ii](https://github.com/Sunilkj8/LC-solved/tree/master/3693-climbing-stairs-ii) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Sunilkj8/LC-solved/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Recursion
