@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Sunilkj8/LC-solved/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Sunilkj8/LC-solved/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/Sunilkj8/LC-solved/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Sunilkj8/LC-solved/tree/master/0128-longest-consecutive-sequence) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0063-unique-paths-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/Sunilkj8/LC-solved/tree/master/0931-minimum-falling-path-sum) |
 ## Sorting
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0059-spiral-matrix-ii) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sunilkj8/LC-solved/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Enumeration
 |  |
