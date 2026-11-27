@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sunilkj8/LC-solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sunilkj8/LC-solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sunilkj8/LC-solved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Sunilkj8/LC-solved/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Sunilkj8/LC-solved/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sunilkj8/LC-solved/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sunilkj8/LC-solved/tree/master/3364-minimum-positive-sum-subarray) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Sunilkj8/LC-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sunilkj8/LC-solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sunilkj8/LC-solved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Sunilkj8/LC-solved/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sunilkj8/LC-solved/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sunilkj8/LC-solved/tree/master/3364-minimum-positive-sum-subarray) |
 | [3964-minimum-lights-to-illuminate-a-road](https://github.com/Sunilkj8/LC-solved/tree/master/3964-minimum-lights-to-illuminate-a-road) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Sunilkj8/LC-solved/tree/master/0647-palindromic-substrings) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sunilkj8/LC-solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Sunilkj8/LC-solved/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Sunilkj8/LC-solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sunilkj8/LC-solved/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Sunilkj8/LC-solved/tree/master/0860-lemonade-change) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Sunilkj8/LC-solved/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Tree
 |  |
 | ------- |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sunilkj8/LC-solved/tree/master/0455-assign-cookies) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sunilkj8/LC-solved/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sunilkj8/LC-solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Sunilkj8/LC-solved/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -312,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Sunilkj8/LC-solved/tree/master/0455-assign-cookies) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Sunilkj8/LC-solved/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
