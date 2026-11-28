@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sunilkj8/LC-solved/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3693-climbing-stairs-ii](https://github.com/Sunilkj8/LC-solved/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sunilkj8/LC-solved/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Sunilkj8/LC-solved/tree/master/3828-final-element-after-subarray-deletions) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sunilkj8/LC-solved/tree/master/3875-construct-uniform-parity-array-i) |
 | [3964-minimum-lights-to-illuminate-a-road](https://github.com/Sunilkj8/LC-solved/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Sunilkj8/LC-solved/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/Sunilkj8/LC-solved/tree/master/1922-count-good-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sunilkj8/LC-solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sunilkj8/LC-solved/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Sunilkj8/LC-solved/tree/master/3828-final-element-after-subarray-deletions) |
 | [3870-count-commas-in-range](https://github.com/Sunilkj8/LC-solved/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sunilkj8/LC-solved/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -321,4 +323,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Sunilkj8/LC-solved/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+## Brainteaser
+|  |
+| ------- |
+| [3828-final-element-after-subarray-deletions](https://github.com/Sunilkj8/LC-solved/tree/master/3828-final-element-after-subarray-deletions) |
+## Game Theory
+|  |
+| ------- |
+| [3828-final-element-after-subarray-deletions](https://github.com/Sunilkj8/LC-solved/tree/master/3828-final-element-after-subarray-deletions) |
 <!---LeetCode Topics End-->
